@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-30T23:10:29.112Z",
+  "lastUpdated": "2026-10-31T07:14:54.315Z",
   "telemetry": [
     {
       "id": "tel_0",
@@ -614,6 +614,42 @@
       "broadcastApprovedBy": "Deputy Commissioner / SDMA Jalandhar",
       "id": "tel_1793401829112",
       "timestamp": "2026-10-30T23:10:29.112Z"
+    },
+    {
+      "bhakraDamDischargeCusecs": 280000,
+      "pongDamDischargeCusecs": 30000,
+      "kaushalyaDamDischargeCusecs": 5000,
+      "phillaurGaugeMeters": 235.8,
+      "harikeDownstreamCusecs": 45000,
+      "catchmentRainfall24hMm": 100,
+      "sutlejWaterLevelRelative": 1,
+      "beasWaterLevelRelative": 0.8,
+      "ghaggarWaterLevelRelative": 1,
+      "headlineEn": "Dam discharge adjusted to 2,80,000 cusecs by DEOC",
+      "headlinePa": "ਡਿਪਟੀ ਕਮਿਸ਼ਨਰ ਦਫ਼ਤਰ ਵੱਲੋਂ ਡੈਮ ਪਾਣੀ ਵਹਾਅ 2,80,000 ਕਿਊਸਿਕ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ",
+      "evacuationBroadcast": false,
+      "evacuationTargetVillageId": "all",
+      "broadcastApprovedBy": "Deputy Commissioner / SDMA Jalandhar",
+      "id": "tel_1793430870240",
+      "timestamp": "2026-10-31T07:14:30.240Z"
+    },
+    {
+      "bhakraDamDischargeCusecs": 280000,
+      "pongDamDischargeCusecs": 30000,
+      "kaushalyaDamDischargeCusecs": 5000,
+      "phillaurGaugeMeters": 235.8,
+      "harikeDownstreamCusecs": 45000,
+      "catchmentRainfall24hMm": 100,
+      "sutlejWaterLevelRelative": 1,
+      "beasWaterLevelRelative": 0.8,
+      "ghaggarWaterLevelRelative": 1,
+      "headlineEn": "MANDATORY EVACUATION ORDER: Approved by Deputy Commissioner / SDMA",
+      "headlinePa": "ਡਿਪਟੀ ਕਮਿਸ਼ਨਰ ਜਲੰਧਰ ਵੱਲੋਂ ਹੜ੍ਹ ਪ੍ਰਭਾਵਿਤ ਪਿੰਡਾਂ ਲਈ ਤੁਰੰਤ ਨਿਕਾਸੀ ਦਾ ਹੁਕਮ ਜਾਰੀ",
+      "evacuationBroadcast": true,
+      "evacuationTargetVillageId": "all",
+      "broadcastApprovedBy": "DC Office / SDMA Command Center Jalandhar",
+      "id": "tel_1793430894315",
+      "timestamp": "2026-10-31T07:14:54.315Z"
     }
   ],
   "villages": [
