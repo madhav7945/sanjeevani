@@ -8,6 +8,11 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ["'Plus Jakarta Sans'", "-apple-system", "BlinkMacSystemFont", "'SF Pro Display'", "'SF Pro Text'", "sans-serif"],
+        heading: ["'Outfit'", "'Plus Jakarta Sans'", "-apple-system", "sans-serif"],
+        mono: ["'Plus Jakarta Sans'", "-apple-system", "BlinkMacSystemFont", "sans-serif"],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
